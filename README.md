@@ -1,5 +1,17 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+This is a learning project
+Still have lots of issues since datas and images i get from API are not enough, and i think its really slow too
+Poor performance
+Filter is not working yet
+SSR makes everytime you search you back to top page
+
+
+
+
+
+
+
 ## Getting Started
 
 First, run the development server:
